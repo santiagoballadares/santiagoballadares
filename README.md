@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://github.com/santiagoballadares"><img src="https://img.shields.io/github/followers/santiagoballadares?label=GitHub&style=social" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/santiagoballadares"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
 
 <!--
 **santiagoballadares/santiagoballadares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
