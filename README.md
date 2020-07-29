@@ -15,7 +15,7 @@
   
 ### Releases
 <!-- releases starts -->
-
+* [WebGL framework v1.0](https://github.com/santiagoballadares/WebGL/releases/tag/v1.0) - 2020-07-29
 <!-- releases ends -->
 [more](https://github.com/santiagoballadares/santiagoballadares/blob/auto-update-readme/releases.md)
 
