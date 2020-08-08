@@ -17,6 +17,6 @@
 <!-- tils starts -->
 
 <!-- tils ends -->
-[more](https://github.com/santiagoballadares/til/)
+[more](https://github.com/santiagoballadares/til/blob/master/README.md)
 
 </td></tr></table>
