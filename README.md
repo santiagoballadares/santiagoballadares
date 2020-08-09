@@ -15,7 +15,8 @@
 
 ### TIL
 <!-- tils starts -->
-
+* [Access nested objects with vanilla JavaScript](https://github.com/santiagoballadares/til/blob/master/javascript/access-nested-objects.md) - 2020-08-04
+* [Manipulate git repositories with Node.js](https://github.com/santiagoballadares/til/blob/master/node/manipulate-git-repositories.md) - 2020-08-02
 <!-- tils ends -->
 [more](https://github.com/santiagoballadares/til/blob/master/README.md)
 
