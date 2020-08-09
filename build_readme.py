@@ -1,4 +1,5 @@
 from python_graphql_client import GraphqlClient
+import httpx
 import json
 import pathlib
 import re
@@ -87,6 +88,12 @@ def fetch_releases(oauth_token):
   return releases
 
 
+def fetch_tils():
+  url = "https://raw.githubusercontent.com/santiagoballadares/til/master/entries.json"
+  res = httpx.get(url)
+  return res.json()
+
+
 if __name__ == "__main__":
   readme_md = root / "README.md"
   releases_md = root / "releases.md"
@@ -104,7 +111,14 @@ if __name__ == "__main__":
   readme_md_content = readme_md.open().read()
   rewritten_readme_md = replace_chunk(readme_md_content, "releases", readme_releases)
 
-  # TODO add TILs
+  last_tils = fetch_tils()[::-1][:5]
+  readme_tils = "\n".join(
+    [
+        "* [{title}]({url}) - {created}".format(title=til["title"], url=til["url"], created=til["created"].split("T")[0])
+        for til in last_tils
+    ]
+  )
+  rewritten_readme_md = replace_chunk(rewritten_readme_md, "tils", readme_tils)
 
   readme_md.open("w").write(rewritten_readme_md)
 
