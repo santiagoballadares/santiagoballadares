@@ -15,6 +15,7 @@
 
 ### TIL
 <!-- tils starts -->
+* [Start a Node.js project](https://github.com/santiagoballadares/til/blob/master/node/start-a-node-js-project.md) - 2020-10-15
 * [Websockets, the easy way](https://github.com/santiagoballadares/til/blob/master/node/websockets-the-easy-way.md) - 2020-09-05
 * [Automatically update data with JavaScript](https://github.com/santiagoballadares/til/blob/master/javascript/automatically-update-data-with-javascript.md) - 2020-08-20
 * [Access nested objects with vanilla JavaScript](https://github.com/santiagoballadares/til/blob/master/javascript/access-nested-objects.md) - 2020-08-04
