@@ -15,11 +15,11 @@
 
 ### TIL
 <!-- tils starts -->
+* [Customize Git Bash](https://github.com/santiagoballadares/til/blob/master/bash/customize-git-bash.md) - 2020-10-22
 * [Start a Node.js project](https://github.com/santiagoballadares/til/blob/master/node/start-a-node-js-project.md) - 2020-10-15
 * [Websockets, the easy way](https://github.com/santiagoballadares/til/blob/master/node/websockets-the-easy-way.md) - 2020-09-05
 * [Automatically update data with JavaScript](https://github.com/santiagoballadares/til/blob/master/javascript/automatically-update-data-with-javascript.md) - 2020-08-20
 * [Access nested objects with vanilla JavaScript](https://github.com/santiagoballadares/til/blob/master/javascript/access-nested-objects.md) - 2020-08-04
-* [Manipulate git repositories with Node.js](https://github.com/santiagoballadares/til/blob/master/node/manipulate-git-repositories.md) - 2020-08-02
 <!-- tils ends -->
 [more](https://github.com/santiagoballadares/til/blob/master/README.md)
 
